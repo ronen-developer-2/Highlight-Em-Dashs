@@ -1,6 +1,6 @@
 # Privacy Policy for Highlight em dashes
 
-**Effective Date: March 27, 2026**
+**Effective Date: March 29, 2026**
 
 Highlight em dashes ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy describes how we handle information in connection with the Highlight em dashes Chrome extension.
 
