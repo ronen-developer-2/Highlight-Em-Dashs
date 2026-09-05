@@ -1,6 +1,6 @@
 # Privacy Policy for Highlight em dashes
 
-**Effective Date: March 29, 2026**
+**Effective Date: March 27, 2026**
 
 Highlight em dashes ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy describes how we handle information in connection with the Highlight em dashes Chrome extension.
 
@@ -17,12 +17,12 @@ Highlight em dashes is designed with a **Privacy-First** approach. We do not col
 
 Highlight em dashes uses specific browser permissions for the following purposes only:
 
-- **`storage` permission:** Used exclusively to store your personal preference for the extension's "enabled/disabled" state. This setting is stored locally in your browser's private storage area using `chrome.storage.local`.
-- **`host_permissions` ("All Sites"):** Used to identify and highlight em-dashes on the pages you visit. This process happens entirely on your local machine. No page content is ever sent to or processed by an external server.
+- **`storage` permission:** Used exclusively to store your personal preferences (such as custom colors, dash type selections, inspector mode, and site permissions). Preferences are synced privately across your Chrome browsers using `chrome.storage.sync`.
+- **`host_permissions` ("All Sites"):** Used to identify and highlight dashes on the pages you visit. This process happens entirely on your local machine. No page content is ever sent to or processed by an external server.
 
 ### 3. Data Storage
 
-All settings and data are stored locally on your device. We do not maintain any central database of user interactions. When you uninstall or disable the extension, the stored "enabled/disabled" preference will remain in your browser's extension data storage unless cleared by the browser.
+All settings and data are stored securely within your private Chrome storage. We do not maintain any external database or server of user interactions. When you uninstall the extension, the stored preferences are removed in accordance with your browser's data retention policies.
 
 ### 4. Third-Party Services and Ads
 
